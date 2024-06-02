@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cargo-messaging" />
+        <module name="cargo-application-services" />
+        <module name="cargo-domain-core" />
+        <module name="cargo-container" />
+        <module name="cargo-persistence" />
+        <module name="cargo-application" />
+        <module name="cargo-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cargo" options="" />
+      <module name="cargo-application" options="-parameters" />
+      <module name="cargo-application-services" options="-parameters" />
+      <module name="cargo-common" options="-parameters" />
+      <module name="cargo-container" options="-parameters" />
+      <module name="cargo-domain" options="" />
+      <module name="cargo-domain-core" options="-parameters" />
+      <module name="cargo-infrastructure" options="" />
+      <module name="cargo-messaging" options="-parameters" />
+      <module name="cargo-persistence" options="-parameters" />
+    </option>
+  </component>
+</project>

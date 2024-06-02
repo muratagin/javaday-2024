@@ -1,0 +1,3 @@
+/Users/murat/IdeaProjects/cargo/cargo-domain/cargo-domain-core/src/main/java/com/javaday/domain/core/entity/Shipment.java
+/Users/murat/IdeaProjects/cargo/cargo-domain/cargo-domain-core/src/main/java/com/javaday/domain/core/event/ShipmentCreatedEvent.java
+/Users/murat/IdeaProjects/cargo/cargo-domain/cargo-domain-core/src/main/java/com/javaday/domain/core/event/ShipmentEvent.java

@@ -1,0 +1,7 @@
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/entity/AggregateRoot.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/entity/DomainEntity.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/event/DomainEvent.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/valueobject/BaseId.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/valueobject/Price.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/valueobject/ShipmentId.java
+/Users/murat/IdeaProjects/cargo/cargo-common/src/main/java/com/javaday/common/domain/valueobject/ShipmentStatus.java

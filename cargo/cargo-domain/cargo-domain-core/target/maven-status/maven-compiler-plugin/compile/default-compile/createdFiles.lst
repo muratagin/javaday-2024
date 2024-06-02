@@ -1,0 +1,3 @@
+com/javaday/domain/core/event/ShipmentEvent.class
+com/javaday/domain/core/entity/Shipment.class
+com/javaday/domain/core/event/ShipmentCreatedEvent.class

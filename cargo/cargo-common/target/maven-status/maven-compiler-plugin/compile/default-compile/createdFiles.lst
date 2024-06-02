@@ -1,0 +1,7 @@
+com/javaday/common/domain/entity/DomainEntity.class
+com/javaday/common/domain/valueobject/ShipmentId.class
+com/javaday/common/domain/valueobject/Price.class
+com/javaday/common/domain/valueobject/BaseId.class
+com/javaday/common/domain/entity/AggregateRoot.class
+com/javaday/common/domain/event/DomainEvent.class
+com/javaday/common/domain/valueobject/ShipmentStatus.class
